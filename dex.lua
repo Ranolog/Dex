@@ -1,9 +1,9 @@
 --[[
 	DEX Main Script
 	
-	Created by: Moon and Courtney
+	Made for S C R I P T S
 	
-	RASPBERRY PI IS A SKIDDY SKID AF
+	Phobos#6300
 --]]
 
 -- Metas
